@@ -1,0 +1,18 @@
+Requisite Location Report
+Summary report:
+SAILIVE objects:
+    Objects with requisites in library SAILIVE: 8
+    Objects with requisites in library SAILIVE: 8
+
+Detail report:
+SAILIVE objects:
+    Objects with requisites in library SAILIVE:
+        *FILE PF        SAILIVE/CUSMST                      
+        *FILE LF        SAILIVE/CUSMSTL1                    
+        *FILE LF        SAILIVE/CUSMSTL2                    
+        *FILE LF        SAILIVE/CUSMSTL3                    
+        *FILE DSPF      SAILIVE/MAINMENU                    
+        *FILE DSPF      SAILIVE/MNTMENU                     
+        *FILE DSPF      SAILIVE/SCHNAMD                     
+        *FILE DSPF      SAILIVE/SCHZIPD                     
+End of Requisite Location Report.

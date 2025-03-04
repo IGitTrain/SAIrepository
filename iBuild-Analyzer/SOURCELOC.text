@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+SAILIVE objects:
+    Objects with source in library SAILIVE: 14
+
+Detail report:
+SAILIVE objects:
+    Objects with source in library SAILIVE:
+        *MODULE RPGLE   SAILIVE/CUSMAIN                     
+        *FILE DSPF      SAILIVE/MAINMENU                    
+        *MODULE RPGLE   SAILIVE/CUSMNT                      
+        *FILE LF        SAILIVE/CUSMSTL1                    
+        *FILE PF        SAILIVE/CUSMST                      
+        *FILE DSPF      SAILIVE/MNTMENU                     
+        *MODULE RPGLE   SAILIVE/SCHNAM                      
+        *FILE LF        SAILIVE/CUSMSTL3                    
+        *FILE DSPF      SAILIVE/SCHNAMD                     
+        *MODULE RPGLE   SAILIVE/SCHZIP                      
+        *FILE LF        SAILIVE/CUSMSTL2                    
+        *FILE DSPF      SAILIVE/SCHZIPD                     
+        *PGM RPGLE      SAILIVE/SCHNAMRPG                   
+        *CMD            SAILIVE/CUSTMAINT                   
+End of Source Location Report.
