@@ -11,6 +11,7 @@
       //                   customer records.                           *
       //                 2.Search customer record by zip code.         *
       //                 3.Search customer record by name.             *
+      // changed
       //****************************************************************
 
      Fmainmenu  cf   e             workstn indds(indicators)
